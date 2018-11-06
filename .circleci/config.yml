@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: ~/seg2105projectCircle
     docker:
-      - image: circleci/android:api-26
+      - image: circleci/android:api-26-beta
     environment:
       JVM_OPTS: -Xmx3200m
     steps:
