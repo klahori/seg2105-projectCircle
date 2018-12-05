@@ -20,7 +20,13 @@
         <activity android:name=".WelcomeActivity" />
         <activity android:name=".AdminActivity" />
         <activity android:name=".ServiceActivity" />
-        <activity android:name=".ProductList"></activity>
+        <activity android:name=".ProductList" />
+        <activity android:name=".ServiceProviderActivity" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".ServicePActivity" />
+        <activity android:name=".AdminServicesActivity" />
+        <activity android:name=".HomeOwnerActivity" />
+        <activity android:name=".BookingService" />
     </application>
 
 </manifest>
