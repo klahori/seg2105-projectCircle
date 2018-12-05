@@ -1,10 +1,8 @@
 # seg2105-projectCircle
-#Starts Here
 Build Status
-[![Build
-Status](https://circleci.com/gh/klahori/seg2105-projectCircleg.png?branch=master)](https://circle
-ci.com/gh/hklahori/seg2105-projectCircle)
-#Ends Here
+[![Build Status](https://circleci.com/gh/SEG2105F18/ProductCatalog.png?branch=master)](https://circleci.com/gh/SEG2105F18/ProductCatalog)
+
+
 
 
 
