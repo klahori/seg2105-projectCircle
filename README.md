@@ -1,6 +1,6 @@
 # seg2105-projectCircle
 Build Status
-[![Build Status](https://circleci.com/gh/klahori/seg2105-projectCircle.png?circle-token=:circle-token)](https://circleci.com/gh/klahori/seg2105-projectCircle)
+[![Build Status](https://circleci.com/gh/klahori/seg2105-projectCircle.png?circle-token=:circle-token)]
 
 
 
